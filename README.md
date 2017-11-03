@@ -1,5 +1,5 @@
 # Loopback explorer yaml
-> This is a monkey patch help you define custom route or custom information for loopback explore. 
+> This is a monkey patch help you define custom route or custom information for loopback explorer. 
 
 Hope new version of Loopback will support this feature.
 

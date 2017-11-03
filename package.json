@@ -1,7 +1,7 @@
 {
   "name": "loopback-explorer-yaml",
-  "version": "0.0.1",
-  "description": "Add custom info to loopback explorer",
+  "version": "0.0.2",
+  "description": "A monkey patch help you define custom route or custom information for loopback explorer",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -12,5 +12,14 @@
     "extendify": "^1.0.0",
     "glob": "^7.1.2",
     "yaml-js": "^0.2.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trquoccuong/loopback-explorer-yaml.git"
+  },
+  "keywords": [
+    "loopback explorer",
+    "loopback yaml",
+    "loopback swagger"
+  ]
 }
