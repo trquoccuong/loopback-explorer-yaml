@@ -17,7 +17,7 @@ Inside server/server.js
 
 const loopbackYAML = require('loopback-explorer-yaml');
 
-loopbackYAML(require('loopback-swagger'), <ffolder pattern to get yaml>);
+loopbackYAML(require('loopback-swagger'), <folder_pattern_to_get_yaml>);
 
 Ex:
 loopbackYAML(require('loopback-swagger'), 'common/extras/*.yaml');
